@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_email.svg" alt="Direct Comms" width="240" height="54" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO">
+  <a href="https://phoenix-folio-of8y.vercel.app">
     <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_portfolio.svg" alt="3D Portfolio" width="240" height="54" />
   </a>
 </div>
