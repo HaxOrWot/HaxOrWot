@@ -29,7 +29,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/HaxOrWot/EngineLib">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/EngineLib" alt="EngineLib Physics" width="100%" />
+        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_enginelib.svg" alt="EngineLib Physics" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
