@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="100%">
+  <defs>
+    <linearGradient id="manBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090d" />
+      <stop offset="100%" stop-color="#0c0e14" />
+    </linearGradient>
+    <linearGradient id="manBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <pattern id="manGrid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="9" cy="9" r="0.65" fill="#334155" opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", "Geist Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", Helvetica, sans-serif; }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="798" height="128" rx="12" fill="url(#manBg)" stroke="url(#manBorder)" stroke-width="1.2" />
+  <rect x="1" y="1" width="798" height="128" rx="12" fill="url(#manGrid)" />
+
+  <!-- Quote Accent Line -->
+  <line x1="28" y1="28" x2="28" y2="102" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Quote Content -->
+  <g transform="translate(46, 44)">
+    <text x="0" y="0" fill="#f8fafc" font-size="13" font-weight="500" class="sans">
+      "Simplicity is prerequisite for reliability. Deterministic performance is not an accident —
+    </text>
+    <text x="0" y="22" fill="#94a3b8" font-size="13" font-weight="400" class="sans">
+      it is engineered by eliminating unearned abstraction and respecting hardware mechanics."
+    </text>
+    <text x="0" y="48" fill="#64748b" font-size="10" font-weight="600" letter-spacing="1.5" class="mono">
+      — PHOENIX // AXIOMS_OF_SYSTEMS_CRAFT
+    </text>
+  </g>
+</svg>

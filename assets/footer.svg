@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 85" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090d" />
+      <stop offset="100%" stop-color="#0c0e14" />
+    </linearGradient>
+    <linearGradient id="footBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="50%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", "Geist Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="798" height="83" rx="10" fill="url(#footBg)" stroke="url(#footBorder)" stroke-width="1.2" />
+
+  <g transform="translate(32, 34)">
+    <!-- Channel 1 -->
+    <text x="0" y="0" fill="#38bdf8" font-size="10" font-weight="700" letter-spacing="1" class="mono">[01_GITHUB]</text>
+    <text x="0" y="18" fill="#94a3b8" font-size="11" font-weight="500" class="mono">github.com/HaxOrWot</text>
+
+    <!-- Channel 2 -->
+    <text x="240" y="0" fill="#818cf8" font-size="10" font-weight="700" letter-spacing="1" class="mono">[02_DIRECT_EMAIL]</text>
+    <text x="240" y="18" fill="#94a3b8" font-size="11" font-weight="500" class="mono">ytallrounderofficial@gmail.com</text>
+
+    <!-- Channel 3 -->
+    <text x="510" y="0" fill="#10b981" font-size="10" font-weight="700" letter-spacing="1" class="mono">[03_3D_PORTFOLIO]</text>
+    <text x="510" y="18" fill="#94a3b8" font-size="11" font-weight="500" class="mono">Phoenix Folio (WebGL / R3F)</text>
+
+    <!-- Status -->
+    <circle cx="738" cy="8" r="3.5" fill="#10b981" />
+  </g>
+</svg>
