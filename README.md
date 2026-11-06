@@ -10,7 +10,6 @@
 
 <br />
 
-### `01` / FLAGSHIP SYSTEMS ARCHITECTURES
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="4" width="100%">
@@ -43,7 +42,6 @@
 
 <br />
 
-### `02` / ARSENAL & CAPABILITIES MATRIX
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/techstack.svg" alt="Arsenal Matrix" width="100%" />
@@ -51,7 +49,6 @@
 
 <br />
 
-### `03` / ENGINEERING AXIOMS
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/manifesto.svg" alt="Engineering Axioms" width="100%" />
@@ -59,7 +56,6 @@
 
 <br />
 
-### `04` / TELEMETRY & RUNTIME ANALYTICS
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/analytics.svg" alt="Runtime Analytics & Workload Spectrum" width="100%" />
@@ -67,7 +63,6 @@
 
 <br />
 
-### `05` / SECURE COMMS & DIRECT CHANNELS
 
 <div align="center">
   <a href="https://github.com/HaxOrWot">
