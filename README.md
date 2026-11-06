@@ -29,7 +29,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/HaxOrWot/EngineLib">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_enginelib.svg" alt="EngineLib Physics" width="100%" />
+        <img src="https://raw.githubusercontent.com/HaxOrWot/EngineLib" alt="EngineLib Physics" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -62,9 +62,7 @@
 ### `04` / TELEMETRY & RUNTIME ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=HaxOrWot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8" height="155" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=HaxOrWot&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=f8fafc&text_color=94a3b8" height="155" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/analytics.svg" alt="Runtime Analytics & Workload Spectrum" width="100%" />
 </div>
 
 <br />
