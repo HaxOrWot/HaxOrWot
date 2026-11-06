@@ -67,21 +67,31 @@
 
 <br />
 
+### `05` / SECURE COMMS & DIRECT CHANNELS
+
 <div align="center">
-  <a href="mailto:ytallrounderofficial@gmail.com">
-    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/footer.svg" alt="Connect Footer" width="100%" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
+        <a href="https://github.com/HaxOrWot">
+          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_github.svg" alt="GitHub Profile" height="52" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:ytallrounderofficial@gmail.com">
+          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_email.svg" alt="Direct Comms" height="52" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO">
+          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_portfolio.svg" alt="3D Portfolio" height="52" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
-
-<p align="center">
-  <a href="https://github.com/HaxOrWot"><code>github</code></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ytallrounderofficial@gmail.com"><code>email</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO"><code>portfolio</code></a>
-</p>
 
 <p align="center">
   <sub>2026 © Phoenix // HaxOrWot · Engineered for Deterministic Speed</sub>
