@@ -70,25 +70,17 @@
 ### `05` / SECURE COMMS & DIRECT CHANNELS
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
-    <tr>
-      <td>
-        <a href="https://github.com/HaxOrWot">
-          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_github.svg" alt="GitHub Profile" height="52" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:ytallrounderofficial@gmail.com">
-          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_email.svg" alt="Direct Comms" height="52" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO">
-          <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_portfolio.svg" alt="3D Portfolio" height="52" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/HaxOrWot">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_github.svg" alt="GitHub Profile" width="240" height="54" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ytallrounderofficial@gmail.com">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_email.svg" alt="Direct Comms" width="240" height="54" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/btn_portfolio.svg" alt="3D Portfolio" width="240" height="54" />
+  </a>
 </div>
 
 <br />
