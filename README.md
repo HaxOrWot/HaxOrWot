@@ -10,38 +10,25 @@
 
 <br />
 
+<div align="center">
+  <a href="https://github.com/HaxOrWot/AerixLang">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_aerix.svg" alt="AerixLang Architecture" width="49%" />
+  </a>
+  <a href="https://github.com/HaxOrWot/BEAM">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_beam.svg" alt="BEAM Protocol" width="49%" />
+  </a>
+</div>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="4" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/HaxOrWot/AerixLang">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_aerix.svg" alt="AerixLang Architecture" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/HaxOrWot/BEAM">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_beam.svg" alt="BEAM Protocol" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/HaxOrWot/EngineLib">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_enginelib.svg" alt="EngineLib Physics" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/HaxOrWot/PHOENIX-FOLIO">
-        <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_folio.svg" alt="Phoenix Folio" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/HaxOrWot/EngineLib">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_enginelib.svg" alt="EngineLib Physics" width="49%" />
+  </a>
+  <a href="https://phoenix-folio-of8y.vercel.app">
+    <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/card_folio.svg" alt="Phoenix Folio" width="49%" />
+  </a>
 </div>
 
 <br />
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/techstack.svg" alt="Arsenal Matrix" width="100%" />
@@ -49,20 +36,17 @@
 
 <br />
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/manifesto.svg" alt="Engineering Axioms" width="100%" />
 </div>
 
 <br />
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaxOrWot/HaxOrWot/main/assets/analytics.svg" alt="Runtime Analytics & Workload Spectrum" width="100%" />
 </div>
 
 <br />
-
 
 <div align="center">
   <a href="https://github.com/HaxOrWot">
